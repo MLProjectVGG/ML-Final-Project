@@ -1,10 +1,6 @@
 # Machine Learning  Final Project
 ## Vision Group, VGG16 Networks
-
-
 ### Created by: <a href = "https://www.linkedin.com/in/alireza-ansaree/" target = "_self">Alireza Ansari</a>, Niloofar Davoodi
-
-
 ### Supervisor: Dr. Sanaz Seyedin
 
 
