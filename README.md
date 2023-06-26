@@ -1,4 +1,6 @@
 # Machine Learning  Final Project
+## Vision Group, VGG16 Networks
+### Created by: href = "https://www.linkedin.com/in/alireza-ansaree/" target = "_self">Alireza Ansari</a> 
 ***
 
 <p align="justify">In this repository, at the Phase01 folder, we have 3 variety VGG16 Model. First, we trrained the normal VGG16 which mentioned in                                           <a href = "https://github.com/huyvnphan/PyTorch_CIFAR10/tree/master" target = "_self">this repository</a>
